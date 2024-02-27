@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td> 
-      This device uses an NE555 with an TC78H621FNG Dual-Bridge driver to generate a 40KHz sine wave signal witch is sent back at the rigth distance to make zones of high and low pressure in witch it can trap small objects.
+      This levitation device uses an NE555 with an TC78H621FNG Dual-Bridge driver to generate a 40KHz sine wave signal witch is sent back at the rigth distance to make zones of high and low pressure in witch it can trap small objects.
     </td>
     <td>
       <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width = 400 > </td>
