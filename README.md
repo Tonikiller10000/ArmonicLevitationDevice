@@ -25,24 +25,20 @@
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/42.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/43.png" ></td>
   </tr>
-  <tr>
-    <td>
-    <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
-    </td>
-  </tr>
 </table>
+<img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
 
 ## Realistic 3D view
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" height = 500 ></td>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" height = 500 ></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" height = 300 ></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" height = 300 ></td>
   </tr>
 </table>
 
 
 
-
+## usability
 <table>
   <tr>
     <td>This king of technology, can be used in medical industry to observe and experiment with liquids without making contact with them.</td>
