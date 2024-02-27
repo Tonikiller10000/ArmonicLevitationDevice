@@ -1,16 +1,5 @@
 # ArmonicLevitationDevice
 
-## Description:
-
-
-<table>
-  <tr>
-    <td> This device uses 40Khz sound wave frequencies to levitate small objects. 
-    It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed in a 40KHz sine wave signal with an TC78H621FNG Dual-Bridge driver. </td>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 500></td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" ></td>
@@ -18,6 +7,19 @@
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/43.png" ></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td> 
+    
+  ## Description:
+    This device uses 40Khz sound wave frequencies to levitate small objects. 
+    It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed in a 40KHz sine wave signal with an TC78H621FNG Dual-Bridge driver. </td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 500></td>
+  </tr>
+</table>
+
+
 
 ### Schematic:
 <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
