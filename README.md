@@ -4,13 +4,12 @@
 <table>
   <tr>
     <td> 
-    This device uses 40Khz sound wave frequencies to levitate small objects. 
-It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed in a 40KHz sine wave signal with an TC78H621FNG Dual-Bridge driver.
-By sending back the wave that is sent from the transmitter at the rigth distance, you can make zones of high and low pressure, named nodes and inter-nodes.
-Such way, you can trap small objects between those high presure waves.
+      This device uses 40Khz sound wave frequencies to levitate small objects. 
+    It uses an NE555 to generate a 40KHz square wave signal witch is converted in a 40KHz sine wave signal with an TC78H621FNG Dual-Bridge driver.
+    By sending back the wave that is sent from the transmitter at the rigth distance, you can make zones of high and low pressure in witch you can trap small objects between those high presure waves.
     </td>
     <td>
-      <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width = 500 > </td>
+      <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width = 400 > </td>
   </tr>
 </table>
 
