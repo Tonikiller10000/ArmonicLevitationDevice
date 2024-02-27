@@ -13,16 +13,11 @@
 
 
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" height = 400 width= 400></td>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" height = 400 width= 400></td>
-  </tr>
-</table>
 
 
 
-[<img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >](https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/ArmonicWaveLevitationV2.pdf)
+
+
 
 <table>
   <tr>
@@ -30,7 +25,20 @@
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/42.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/43.png" ></td>
   </tr>
+  <tr>
+    <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
+  </tr>
 </table>
+
+## Realistic 3D view
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" ></td>
+  </tr>
+</table>
+
+
 
 
 <table>
