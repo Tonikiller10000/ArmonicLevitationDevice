@@ -9,18 +9,28 @@ It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/43.png" ></td>
-
   </tr>
 </table>
 
 ### Schematic:
 <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
 
+
+
+
 ## How/where to use:
-It can be powered with a 9V battery. (5-15v operating voltage range)
-Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. 
-To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
-For a stronger hold, you can use another transmitter connected to the SP2 pins.
+
+<table>
+  <tr>
+    <td> 
+      It can be powered with a 9V battery. (5-15v operating voltage range)
+      Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. 
+      To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
+      For a stronger hold, you can use another transmitter connected to the SP2 pins.
+   </td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 500></td>
+  </tr>
+</table>
 
 > [!IMPORTANT]
 > Change the distance between the transmitter1 and the surface/transmitter2 to create the nodes and antinodes for the project to work.
@@ -34,7 +44,7 @@ For a stronger hold, you can use another transmitter connected to the SP2 pins.
 </table>
 
 
-    <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 500>
+
 ## Links:
 - TC78H621FNG datasheet (Dual-Bridge driver): https://toshiba.semicon-storage.com/info/TC78H621FNG_datasheet_en_20170410.pdf?did=57992&prodName=TC78H621FNG
 - 78L05 datasheet (voltage regulator): https://www.sparkfun.com/datasheets/Components/LM7805.pdf
