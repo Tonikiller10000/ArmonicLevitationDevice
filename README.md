@@ -18,13 +18,17 @@
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/43.png" ></td>
   </tr>
 </table>
+
+### Schematic:
 <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
 
 
 ## How/where to use:
-    It can be powered with a 9V battery. (5-15v operating voltage range)
-    Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. For a stranger hold, you can use another transmitter connected to the SP2 pins.
-    
+It can be powered with a 9V battery. (5-15v operating voltage range)
+Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. 
+To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
+For a stronger hold, you can use another transmitter connected to the SP2 pins.
+
 > [!IMPORTANT]
 > Change the distance between the transmitter1 and the surface/transmitter2 to create the nodes and antinodes for the project to work.
 
