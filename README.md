@@ -23,12 +23,12 @@ It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed
 <table>
   <tr>
     <td> 
-      It can be powered with a 9V battery. (5-15v operating voltage range)
-      Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. 
-      To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
-      For a stronger hold, you can use another transmitter connected to the SP2 pins.
+        It can be powered with a 9V battery. (5-15v operating voltage range)
+        Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. 
+        To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
+        For a stronger hold, you can use another transmitter connected to the SP2 pins.
    </td>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 500></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 600></td>
   </tr>
 </table>
 
