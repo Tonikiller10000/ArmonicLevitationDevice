@@ -28,7 +28,7 @@ It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed
         To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
         For a stronger hold, you can use another transmitter connected to the SP2 pins.
    </td>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 600></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" height = 400 width= 400 ></td>
   </tr>
 </table>
 
