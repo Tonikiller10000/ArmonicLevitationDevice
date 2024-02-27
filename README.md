@@ -9,21 +9,14 @@
     It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed in a 40KHz sine wave signal with an  </td>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width= 500></td>
   </tr>
-</table>
-
-
-
-
-
-
-
-<table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" ></td>
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" ></td>
   </tr>
 </table>
 
+
+[Schematic:](https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/ArmonicWaveLevitationV2.pdf)
 <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
 
 <table>
@@ -46,3 +39,7 @@
 
 ## Links:
 74HC595 datasheet (shift register): https://datasheetspdf.com/pdf-file/446162/ONSemiconductor/74HC595/1
+
+
+Ultrasonic transducer: https://www.murata.com/-/media/webrenewal/products/sensor/ultrasonic/open/datasheet_maopn.ashx
+general transducers: https://tecsho.com/Download/Download/126816/fp
