@@ -26,15 +26,17 @@
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/43.png" ></td>
   </tr>
   <tr>
+    <td>
     <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
+    </td>
   </tr>
 </table>
 
 ## Realistic 3D view
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" ></td>
-    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" ></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/47.png" height = 500 ></td>
+    <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/44.png" height = 500 ></td>
   </tr>
 </table>
 
