@@ -10,7 +10,7 @@
     Such way, you can trap small objects between those high presure waves.
     </td>
     <td>
-      <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" height = 300> </td>
+      <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" width = 400> </td>
   </tr>
 </table>
 
