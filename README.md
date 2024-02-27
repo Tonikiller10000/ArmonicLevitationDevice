@@ -1,8 +1,19 @@
 # ArmonicLevitationDevice
 
 ## Description:
-This device uses 40Khz sound wave frequencies to levitate small objects. 
-It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed in a 40KHz sine wave signal with an TC78H621FNG Dual-Bridge driver.
+<table>
+  <tr>
+    <td> 
+    This device uses 40Khz sound wave frequencies to levitate small objects. 
+    It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed in a 40KHz sine wave signal with an TC78H621FNG Dual-Bridge driver.
+    By sending back the wave that is sent from the transmitter at the rigth distance, you can make zones of high and low pressure, named nodes and inter-nodes.
+    Such way, you can trap small objects between those high presure waves.
+    </td>
+    <td>
+      <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" height = 300> </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
@@ -12,23 +23,15 @@ It uses an smd NE555 to generate a 40KHz square wave signal witch is transformed
   </tr>
 </table>
 
-### Schematic:
+## Schematic:
 <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/45.png" >
 
 
-
-
 ## How/where to use:
-
-<table>
-  <tr>
-    <td> 
-    It can be powered with a 9V battery. (5-15v operating voltage range) 
-    Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. For a stronger hold, you can use another transmitter connected to the SP2 pins.</td>
-    <td>
-      <img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p1.webp" height = 300> </td>
-  </tr>
-</table>
+It can be powered with a 9V battery. (5-15v operating voltage range) 
+Because of it`s design, multiple tipes of transmiters/transducers can be used by bending the pins. 
+To use it, you can use only one board/transmitter ans a close flat surface to reflect the wave. 
+For a stronger hold, you can use another transmitter connected to the SP2 pins.
 
 > [!IMPORTANT]
 > Change the distance between the transmitter1 and the surface/transmitter2 to create the nodes and antinodes for the project to work.
