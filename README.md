@@ -1,4 +1,4 @@
-# ArmonicLevitationDevice
+# ArmonicLevitationDevice 🟡 NOT TESTED
 
 ## Description:
 <table>
@@ -40,6 +40,10 @@ For a stronger hold, you can use another transmitter connected to the SP2 pins.
     <td><img src="https://github.com/Tonikiller10000/ArmonicLevitationDevice/blob/main/LevitationPictures/p2.png" width= 400></td>
   </tr>
 </table>
+
+
+## License
+**License:** MIT — This project is licensed under the [MIT License](./LICENSE).
 
 
 
