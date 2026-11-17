@@ -42,10 +42,6 @@ For a stronger hold, you can use another transmitter connected to the SP2 pins.
 </table>
 
 
-## License
-**License:** MIT — This project is licensed under the [MIT License](./LICENSE).
-
-
 
 ## Links:
 - TC78H621FNG datasheet (Dual-Bridge driver): https://toshiba.semicon-storage.com/info/TC78H621FNG_datasheet_en_20170410.pdf?did=57992&prodName=TC78H621FNG
@@ -53,3 +49,8 @@ For a stronger hold, you can use another transmitter connected to the SP2 pins.
 - NE555 datasheet (timer): https://pdf1.alldatasheet.com/datasheet-pdf/view/17972/PHILIPS/NE555.html
 - Ultrasonic transducer: https://www.murata.com/-/media/webrenewal/products/sensor/ultrasonic/open/datasheet_maopn.ashx
 - general transducers: https://tecsho.com/Download/Download/126816/fp
+
+## License
+**License:** MIT — This project is licensed under the [MIT License](./LICENSE).
+
+
